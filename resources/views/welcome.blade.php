@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Tutorial On Medium</a>
-                    <a href="https://github.com/laravel/laravel">GitHub Repo</a>
+                    <a href="https://github.com/razaqofficial/api-project">GitHub Repo</a>
                 </div>
             </div>
         </div>
